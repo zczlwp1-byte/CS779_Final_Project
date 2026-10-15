@@ -1,0 +1,16 @@
+services:
+  postgres:
+    image: pgvector/pgvector:pg16
+    container_name: cs779-postgres
+    environment:
+      POSTGRES_DB: cs779_vector_db
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: cs779password
+    ports:
+      - "5433:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    restart: unless-stopped
+
+volumes:
+  postgres_data:

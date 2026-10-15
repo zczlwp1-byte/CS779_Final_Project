@@ -1,0 +1,11 @@
+query_number,query,method,mean_latency_ms,p95_latency_ms,mean_results_returned,overlap_with_exact_at_10
+1,reducing the computational cost of transformer models,full_text,1.6971200006082654,2.22992500039254,10.0,0.0
+2,database indexing and query optimization,full_text,0.9731500002089888,1.1015200014298898,3.0,0.29999999999999993
+3,image classification using deep neural networks,full_text,1.1280499998974847,1.2516949997007032,10.0,0.29999999999999993
+4,natural language processing with large language models,full_text,1.7383199996402254,1.9573549992855988,10.0,0.2
+5,robot navigation and autonomous systems,full_text,0.950689999081078,1.048134998382011,9.0,0.2
+6,information retrieval and semantic search,full_text,1.0539199993218062,1.2111699994420633,10.0,0.0
+7,cybersecurity threat detection,full_text,0.8824400003504707,1.0005349993662094,7.0,0.2
+8,reinforcement learning for decision making,full_text,1.4037099997949554,1.531500000419328,10.0,0.1
+9,medical image analysis using artificial intelligence,full_text,0.944530000560917,1.0577499995633843,1.0,0.0
+10,efficient training of neural networks,full_text,1.4879900005325908,1.7060400012269383,10.0,0.0

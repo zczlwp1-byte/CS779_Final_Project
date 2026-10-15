@@ -1,0 +1,201 @@
+query_number,query,method,run,latency_ms,recall_at_10
+1,reducing the computational cost of transformer models,exact,1,18.93230000132462,1.0
+1,reducing the computational cost of transformer models,exact,2,19.719600000826176,1.0
+1,reducing the computational cost of transformer models,exact,3,20.1204000004509,1.0
+1,reducing the computational cost of transformer models,exact,4,19.253100002970314,1.0
+1,reducing the computational cost of transformer models,exact,5,19.29970000128378,1.0
+1,reducing the computational cost of transformer models,exact,6,19.181199997547083,1.0
+1,reducing the computational cost of transformer models,exact,7,18.74390000011772,1.0
+1,reducing the computational cost of transformer models,exact,8,19.46930000121938,1.0
+1,reducing the computational cost of transformer models,exact,9,18.940199999633478,1.0
+1,reducing the computational cost of transformer models,exact,10,18.195500000729226,1.0
+1,reducing the computational cost of transformer models,hnsw,1,1.1889000015798956,1.0
+1,reducing the computational cost of transformer models,hnsw,2,1.1626000014075544,1.0
+1,reducing the computational cost of transformer models,hnsw,3,1.2670000032812823,1.0
+1,reducing the computational cost of transformer models,hnsw,4,1.1599999997997656,1.0
+1,reducing the computational cost of transformer models,hnsw,5,1.1301999984425493,1.0
+1,reducing the computational cost of transformer models,hnsw,6,1.1615000003075693,1.0
+1,reducing the computational cost of transformer models,hnsw,7,1.424600002792431,1.0
+1,reducing the computational cost of transformer models,hnsw,8,1.0402000007161405,1.0
+1,reducing the computational cost of transformer models,hnsw,9,1.1903999984497204,1.0
+1,reducing the computational cost of transformer models,hnsw,10,1.0304000024916604,1.0
+2,database indexing and query optimization,exact,1,20.02370000263909,1.0
+2,database indexing and query optimization,exact,2,20.004800000606338,1.0
+2,database indexing and query optimization,exact,3,18.885100002080435,1.0
+2,database indexing and query optimization,exact,4,18.34249999956228,1.0
+2,database indexing and query optimization,exact,5,18.510099998820806,1.0
+2,database indexing and query optimization,exact,6,18.624100001034094,1.0
+2,database indexing and query optimization,exact,7,18.414199999824632,1.0
+2,database indexing and query optimization,exact,8,18.51900000110618,1.0
+2,database indexing and query optimization,exact,9,18.162100001063664,1.0
+2,database indexing and query optimization,exact,10,18.4798000009323,1.0
+2,database indexing and query optimization,hnsw,1,1.1129000013170298,1.0
+2,database indexing and query optimization,hnsw,2,0.9279999976570252,1.0
+2,database indexing and query optimization,hnsw,3,0.9014999995997641,1.0
+2,database indexing and query optimization,hnsw,4,1.095699997677002,1.0
+2,database indexing and query optimization,hnsw,5,0.9050999979081098,1.0
+2,database indexing and query optimization,hnsw,6,0.9711000020615757,1.0
+2,database indexing and query optimization,hnsw,7,0.9567999986757059,1.0
+2,database indexing and query optimization,hnsw,8,0.9604000006220303,1.0
+2,database indexing and query optimization,hnsw,9,1.1717999987013172,1.0
+2,database indexing and query optimization,hnsw,10,1.0159999983443413,1.0
+3,image classification using deep neural networks,exact,1,19.277999999758322,1.0
+3,image classification using deep neural networks,exact,2,19.36049999858369,1.0
+3,image classification using deep neural networks,exact,3,18.683999998756917,1.0
+3,image classification using deep neural networks,exact,4,19.284800000605173,1.0
+3,image classification using deep neural networks,exact,5,18.592500000522705,1.0
+3,image classification using deep neural networks,exact,6,18.32720000311383,1.0
+3,image classification using deep neural networks,exact,7,19.306799997139024,1.0
+3,image classification using deep neural networks,exact,8,18.902600000728853,1.0
+3,image classification using deep neural networks,exact,9,19.34860000255867,1.0
+3,image classification using deep neural networks,exact,10,18.88360000157263,1.0
+3,image classification using deep neural networks,hnsw,1,1.1024999985238537,1.0
+3,image classification using deep neural networks,hnsw,2,0.961900001129834,1.0
+3,image classification using deep neural networks,hnsw,3,1.0595999992801808,1.0
+3,image classification using deep neural networks,hnsw,4,0.9978000016417354,1.0
+3,image classification using deep neural networks,hnsw,5,1.0244999975839164,1.0
+3,image classification using deep neural networks,hnsw,6,1.002699998934986,1.0
+3,image classification using deep neural networks,hnsw,7,1.0452999995322898,1.0
+3,image classification using deep neural networks,hnsw,8,0.9560999969835393,1.0
+3,image classification using deep neural networks,hnsw,9,1.2623000002349727,1.0
+3,image classification using deep neural networks,hnsw,10,0.9854999989329372,1.0
+4,natural language processing with large language models,exact,1,18.978000000061,1.0
+4,natural language processing with large language models,exact,2,19.424699999945005,1.0
+4,natural language processing with large language models,exact,3,19.131299999571638,1.0
+4,natural language processing with large language models,exact,4,19.001500000740634,1.0
+4,natural language processing with large language models,exact,5,19.30960000026971,1.0
+4,natural language processing with large language models,exact,6,19.814400002360344,1.0
+4,natural language processing with large language models,exact,7,18.977600000653183,1.0
+4,natural language processing with large language models,exact,8,18.415900001855334,1.0
+4,natural language processing with large language models,exact,9,18.676800002140226,1.0
+4,natural language processing with large language models,exact,10,18.183500000304775,1.0
+4,natural language processing with large language models,hnsw,1,1.1525000008987263,0.7
+4,natural language processing with large language models,hnsw,2,1.2344999995548278,0.7
+4,natural language processing with large language models,hnsw,3,1.1709999998856802,0.7
+4,natural language processing with large language models,hnsw,4,1.3763000024482608,0.7
+4,natural language processing with large language models,hnsw,5,0.9716000022308435,0.7
+4,natural language processing with large language models,hnsw,6,1.0261999996146187,0.7
+4,natural language processing with large language models,hnsw,7,1.1315999981889036,0.7
+4,natural language processing with large language models,hnsw,8,1.077099997928599,0.7
+4,natural language processing with large language models,hnsw,9,0.9543999985908158,0.7
+4,natural language processing with large language models,hnsw,10,1.0461000019859057,0.7
+5,robot navigation and autonomous systems,exact,1,18.955200001073536,1.0
+5,robot navigation and autonomous systems,exact,2,18.59349999722326,1.0
+5,robot navigation and autonomous systems,exact,3,17.977400002564536,1.0
+5,robot navigation and autonomous systems,exact,4,18.086300002323696,1.0
+5,robot navigation and autonomous systems,exact,5,18.31809999930556,1.0
+5,robot navigation and autonomous systems,exact,6,18.282900000485824,1.0
+5,robot navigation and autonomous systems,exact,7,17.66959999804385,1.0
+5,robot navigation and autonomous systems,exact,8,18.241400000988506,1.0
+5,robot navigation and autonomous systems,exact,9,18.502200000511948,1.0
+5,robot navigation and autonomous systems,exact,10,18.82119999936549,1.0
+5,robot navigation and autonomous systems,hnsw,1,1.0925999995379243,0.9
+5,robot navigation and autonomous systems,hnsw,2,1.005599999189144,0.9
+5,robot navigation and autonomous systems,hnsw,3,1.0531000007176772,0.9
+5,robot navigation and autonomous systems,hnsw,4,1.1114999979326967,0.9
+5,robot navigation and autonomous systems,hnsw,5,0.9291999995184597,0.9
+5,robot navigation and autonomous systems,hnsw,6,0.9127000012085773,0.9
+5,robot navigation and autonomous systems,hnsw,7,1.038999998854706,0.9
+5,robot navigation and autonomous systems,hnsw,8,0.9728000004542992,0.9
+5,robot navigation and autonomous systems,hnsw,9,1.0475999988557305,0.9
+5,robot navigation and autonomous systems,hnsw,10,1.022799999191193,0.9
+6,information retrieval and semantic search,exact,1,18.768699999782257,1.0
+6,information retrieval and semantic search,exact,2,19.558200001483783,1.0
+6,information retrieval and semantic search,exact,3,19.100599998637335,1.0
+6,information retrieval and semantic search,exact,4,19.325399996887427,1.0
+6,information retrieval and semantic search,exact,5,19.77890000125626,1.0
+6,information retrieval and semantic search,exact,6,19.553699999960372,1.0
+6,information retrieval and semantic search,exact,7,19.899099999747705,1.0
+6,information retrieval and semantic search,exact,8,18.260299999383278,1.0
+6,information retrieval and semantic search,exact,9,18.406600000162143,1.0
+6,information retrieval and semantic search,exact,10,20.636600002035266,1.0
+6,information retrieval and semantic search,hnsw,1,0.9750999997777399,1.0
+6,information retrieval and semantic search,hnsw,2,1.0188999985984992,1.0
+6,information retrieval and semantic search,hnsw,3,0.9243999993486796,1.0
+6,information retrieval and semantic search,hnsw,4,1.0817000002134591,1.0
+6,information retrieval and semantic search,hnsw,5,0.9780000000318978,1.0
+6,information retrieval and semantic search,hnsw,6,0.8198999967135023,1.0
+6,information retrieval and semantic search,hnsw,7,0.9610999986762181,1.0
+6,information retrieval and semantic search,hnsw,8,0.9768999989319127,1.0
+6,information retrieval and semantic search,hnsw,9,0.824099999590544,1.0
+6,information retrieval and semantic search,hnsw,10,1.031799998600036,1.0
+7,cybersecurity threat detection,exact,1,19.789600002695806,1.0
+7,cybersecurity threat detection,exact,2,19.233500002883375,1.0
+7,cybersecurity threat detection,exact,3,18.94460000039544,1.0
+7,cybersecurity threat detection,exact,4,18.832099998689955,1.0
+7,cybersecurity threat detection,exact,5,17.888500002300134,1.0
+7,cybersecurity threat detection,exact,6,18.527899999753572,1.0
+7,cybersecurity threat detection,exact,7,18.092499998601852,1.0
+7,cybersecurity threat detection,exact,8,17.810800000006566,1.0
+7,cybersecurity threat detection,exact,9,18.188400001236005,1.0
+7,cybersecurity threat detection,exact,10,18.98859999710112,1.0
+7,cybersecurity threat detection,hnsw,1,1.0003999996115454,1.0
+7,cybersecurity threat detection,hnsw,2,0.9378000031574629,1.0
+7,cybersecurity threat detection,hnsw,3,1.0167000000365078,1.0
+7,cybersecurity threat detection,hnsw,4,0.8879000015440397,1.0
+7,cybersecurity threat detection,hnsw,5,1.1396999980206601,1.0
+7,cybersecurity threat detection,hnsw,6,0.8911999975680374,1.0
+7,cybersecurity threat detection,hnsw,7,1.0610999997879844,1.0
+7,cybersecurity threat detection,hnsw,8,1.0432999988552183,1.0
+7,cybersecurity threat detection,hnsw,9,1.0486999999557156,1.0
+7,cybersecurity threat detection,hnsw,10,0.9518999977444764,1.0
+8,reinforcement learning for decision making,exact,1,18.962699999974575,1.0
+8,reinforcement learning for decision making,exact,2,18.805899999279063,1.0
+8,reinforcement learning for decision making,exact,3,18.12919999792939,1.0
+8,reinforcement learning for decision making,exact,4,18.12489999792888,1.0
+8,reinforcement learning for decision making,exact,5,18.8207000028342,1.0
+8,reinforcement learning for decision making,exact,6,19.8396000014327,1.0
+8,reinforcement learning for decision making,exact,7,18.493800002033822,1.0
+8,reinforcement learning for decision making,exact,8,19.05550000083167,1.0
+8,reinforcement learning for decision making,exact,9,19.531099998857826,1.0
+8,reinforcement learning for decision making,exact,10,19.008299997949507,1.0
+8,reinforcement learning for decision making,hnsw,1,1.0987999994540587,1.0
+8,reinforcement learning for decision making,hnsw,2,0.9188999974867329,1.0
+8,reinforcement learning for decision making,hnsw,3,0.9534999990137294,1.0
+8,reinforcement learning for decision making,hnsw,4,1.1758999971789308,1.0
+8,reinforcement learning for decision making,hnsw,5,1.2378999999782536,1.0
+8,reinforcement learning for decision making,hnsw,6,0.9260000006179325,1.0
+8,reinforcement learning for decision making,hnsw,7,0.9031999979924876,1.0
+8,reinforcement learning for decision making,hnsw,8,1.06469999809633,1.0
+8,reinforcement learning for decision making,hnsw,9,0.9530999996059109,1.0
+8,reinforcement learning for decision making,hnsw,10,0.9688000027381349,1.0
+9,medical image analysis using artificial intelligence,exact,1,18.885299999965355,1.0
+9,medical image analysis using artificial intelligence,exact,2,19.089099998382153,1.0
+9,medical image analysis using artificial intelligence,exact,3,19.816899999568705,1.0
+9,medical image analysis using artificial intelligence,exact,4,19.640300000901334,1.0
+9,medical image analysis using artificial intelligence,exact,5,18.955100000312086,1.0
+9,medical image analysis using artificial intelligence,exact,6,18.463600001268787,1.0
+9,medical image analysis using artificial intelligence,exact,7,18.401599998469464,1.0
+9,medical image analysis using artificial intelligence,exact,8,17.882800002553267,1.0
+9,medical image analysis using artificial intelligence,exact,9,18.36600000024191,1.0
+9,medical image analysis using artificial intelligence,exact,10,18.662900001800153,1.0
+9,medical image analysis using artificial intelligence,hnsw,1,1.0513999986869749,1.0
+9,medical image analysis using artificial intelligence,hnsw,2,1.135700000304496,1.0
+9,medical image analysis using artificial intelligence,hnsw,3,0.9429999990970828,1.0
+9,medical image analysis using artificial intelligence,hnsw,4,1.1092999993707053,1.0
+9,medical image analysis using artificial intelligence,hnsw,5,1.0949999996228144,1.0
+9,medical image analysis using artificial intelligence,hnsw,6,1.0265999990224373,1.0
+9,medical image analysis using artificial intelligence,hnsw,7,1.0803000004671048,1.0
+9,medical image analysis using artificial intelligence,hnsw,8,1.1054000024159905,1.0
+9,medical image analysis using artificial intelligence,hnsw,9,0.969299999269424,1.0
+9,medical image analysis using artificial intelligence,hnsw,10,0.8918999992602039,1.0
+10,efficient training of neural networks,exact,1,19.030499999644235,1.0
+10,efficient training of neural networks,exact,2,18.88120000148774,1.0
+10,efficient training of neural networks,exact,3,19.715599999472033,1.0
+10,efficient training of neural networks,exact,4,19.48660000198288,1.0
+10,efficient training of neural networks,exact,5,18.81180000054883,1.0
+10,efficient training of neural networks,exact,6,19.07260000007227,1.0
+10,efficient training of neural networks,exact,7,18.829300002835225,1.0
+10,efficient training of neural networks,exact,8,18.584600002213847,1.0
+10,efficient training of neural networks,exact,9,19.480099999782396,1.0
+10,efficient training of neural networks,exact,10,18.694599999435013,1.0
+10,efficient training of neural networks,hnsw,1,1.046699999278644,1.0
+10,efficient training of neural networks,hnsw,2,0.954999999521533,1.0
+10,efficient training of neural networks,hnsw,3,1.012500000797445,1.0
+10,efficient training of neural networks,hnsw,4,0.882700001966441,1.0
+10,efficient training of neural networks,hnsw,5,0.957899999775691,1.0
+10,efficient training of neural networks,hnsw,6,0.9169000004476402,1.0
+10,efficient training of neural networks,hnsw,7,1.1016999997082166,1.0
+10,efficient training of neural networks,hnsw,8,1.1338000003888737,1.0
+10,efficient training of neural networks,hnsw,9,0.915000000532018,1.0
+10,efficient training of neural networks,hnsw,10,0.9639000018069055,1.0

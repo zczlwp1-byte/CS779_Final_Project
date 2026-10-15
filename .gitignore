@@ -1,0 +1,48 @@
+# Python virtual environments
+.venv/
+venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Environment variables and local secrets
+.env
+.env.*
+!.env.example
+
+# Local logs and temporary files
+*.log
+*.tmp
+*.temp
+~$*
+
+# Model and package caches
+.cache/
+huggingface/
+
+# Generated data and embeddings
+data/processed/*.npy
+data/processed/*checkpoint*
+data/processed/*.partial
+
+# Keep benchmark evidence, but ignore temporary result files
+results/*.tmp
+results/*checkpoint*
+
+# Local database volumes and backups
+postgres_data/
+*.dump
+*.backup
+
+# Final submission archives
+*.zip

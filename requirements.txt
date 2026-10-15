@@ -1,0 +1,13 @@
+psycopg[binary]>=3.2
+pgvector>=0.4
+sentence-transformers>=5.0
+transformers>=4.55
+sentencepiece>=0.2
+torch>=2.7
+pandas>=2.2
+numpy>=2.0
+matplotlib>=3.9
+seaborn>=0.13
+tqdm>=4.66
+requests>=2.32
+feedparser>=6.0

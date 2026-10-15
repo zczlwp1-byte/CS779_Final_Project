@@ -1,0 +1,21 @@
+query_number,query,method,mean_latency_ms,p95_latency_ms,recall_at_10
+1,reducing the computational cost of transformer models,exact,19.185520000610268,19.940040000619774,1.0
+1,reducing the computational cost of transformer models,hnsw,1.1755800009268569,1.3536800030124139,1.0
+2,database indexing and query optimization,exact,18.79654000076698,20.01519500172435,1.0
+2,database indexing and query optimization,hnsw,1.0019299992563901,1.145294999878388,1.0
+3,image classification using deep neural networks,exact,18.99686000033398,19.35514500037243,1.0
+3,image classification using deep neural networks,hnsw,1.0398199992778245,1.190389999464969,1.0
+4,natural language processing with large language models,exact,18.991330000790185,19.63903500127344,1.0
+4,natural language processing with large language models,hnsw,1.1141300001327181,1.3124900011462157,0.7
+5,robot navigation and autonomous systems,exact,18.34478000018862,18.894900000304915,1.0
+5,robot navigation and autonomous systems,hnsw,1.0186899995460408,1.1029949986550491,0.9
+6,information retrieval and semantic search,exact,19.328809999933583,20.304725001005863,1.0
+6,information retrieval and semantic search,hnsw,0.9591899990482489,1.0592449994874187,1.0
+7,cybersecurity threat detection,exact,18.629650000366382,19.539355002780212,1.0
+7,cybersecurity threat detection,hnsw,0.9978699996281648,1.104329998815956,1.0
+8,reinforcement learning for decision making,exact,18.877169999905163,19.700775000274007,1.0
+8,reinforcement learning for decision making,hnsw,1.0200799992162501,1.2099999987185583,1.0
+9,medical image analysis using artificial intelligence,exact,18.81636000034632,19.737430000168388,1.0
+9,medical image analysis using artificial intelligence,hnsw,1.0407899997517234,1.1238199998842902,1.0
+10,efficient training of neural networks,exact,19.058690000747447,19.612550000601914,1.0
+10,efficient training of neural networks,hnsw,0.9886100004223408,1.119355000082578,1.0

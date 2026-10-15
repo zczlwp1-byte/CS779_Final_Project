@@ -1,0 +1,101 @@
+query_number,query,method,run,latency_ms,results_returned,overlap_with_exact_at_10
+1,reducing the computational cost of transformer models,full_text,1,1.188199999887729,10,0.1
+1,reducing the computational cost of transformer models,full_text,2,1.3552999989769887,10,0.1
+1,reducing the computational cost of transformer models,full_text,3,1.7907000001287088,10,0.1
+1,reducing the computational cost of transformer models,full_text,4,1.164100001915358,10,0.1
+1,reducing the computational cost of transformer models,full_text,5,1.200400001835078,10,0.1
+1,reducing the computational cost of transformer models,full_text,6,1.067100001819199,10,0.1
+1,reducing the computational cost of transformer models,full_text,7,1.1284000029263552,10,0.1
+1,reducing the computational cost of transformer models,full_text,8,1.1354000016581267,10,0.1
+1,reducing the computational cost of transformer models,full_text,9,1.0971999981848057,10,0.1
+1,reducing the computational cost of transformer models,full_text,10,1.5586000008624978,10,0.1
+2,database indexing and query optimization,full_text,1,0.9404999982507434,1,0.1
+2,database indexing and query optimization,full_text,2,0.9195999991788995,1,0.1
+2,database indexing and query optimization,full_text,3,0.9797000020626001,1,0.1
+2,database indexing and query optimization,full_text,4,1.2305999989621341,1,0.1
+2,database indexing and query optimization,full_text,5,0.8379999999306165,1,0.1
+2,database indexing and query optimization,full_text,6,0.9372999993502162,1,0.1
+2,database indexing and query optimization,full_text,7,0.8593999991717283,1,0.1
+2,database indexing and query optimization,full_text,8,0.8837000023049768,1,0.1
+2,database indexing and query optimization,full_text,9,0.8259999995061662,1,0.1
+2,database indexing and query optimization,full_text,10,0.8345000023837201,1,0.1
+3,image classification using deep neural networks,full_text,1,0.8932999990065582,7,0.3
+3,image classification using deep neural networks,full_text,2,0.9310000023106113,7,0.3
+3,image classification using deep neural networks,full_text,3,1.0342000023229048,7,0.3
+3,image classification using deep neural networks,full_text,4,0.896699999429984,7,0.3
+3,image classification using deep neural networks,full_text,5,1.1644000005617272,7,0.3
+3,image classification using deep neural networks,full_text,6,0.9807999995246064,7,0.3
+3,image classification using deep neural networks,full_text,7,1.0185000028286595,7,0.3
+3,image classification using deep neural networks,full_text,8,1.0236000016448088,7,0.3
+3,image classification using deep neural networks,full_text,9,0.9721999995235819,7,0.3
+3,image classification using deep neural networks,full_text,10,0.9507000031589996,7,0.3
+4,natural language processing with large language models,full_text,1,1.2963999979547225,10,0.2
+4,natural language processing with large language models,full_text,2,1.2362000015855301,10,0.2
+4,natural language processing with large language models,full_text,3,1.2855000022682361,10,0.2
+4,natural language processing with large language models,full_text,4,1.2085000016668346,10,0.2
+4,natural language processing with large language models,full_text,5,1.2850000020989683,10,0.2
+4,natural language processing with large language models,full_text,6,1.6417000006185845,10,0.2
+4,natural language processing with large language models,full_text,7,1.196700002765283,10,0.2
+4,natural language processing with large language models,full_text,8,1.302900000155205,10,0.2
+4,natural language processing with large language models,full_text,9,1.564700000017183,10,0.2
+4,natural language processing with large language models,full_text,10,1.4699999992444646,10,0.2
+5,robot navigation and autonomous systems,full_text,1,0.8821000010357238,3,0.1
+5,robot navigation and autonomous systems,full_text,2,0.9016000003612135,3,0.1
+5,robot navigation and autonomous systems,full_text,3,0.8311999990837649,3,0.1
+5,robot navigation and autonomous systems,full_text,4,0.9200000022246968,3,0.1
+5,robot navigation and autonomous systems,full_text,5,0.823300000774907,3,0.1
+5,robot navigation and autonomous systems,full_text,6,0.9637000002840068,3,0.1
+5,robot navigation and autonomous systems,full_text,7,0.8974000011221506,3,0.1
+5,robot navigation and autonomous systems,full_text,8,0.8468999985780101,3,0.1
+5,robot navigation and autonomous systems,full_text,9,0.943900002312148,3,0.1
+5,robot navigation and autonomous systems,full_text,10,0.8933999997680075,3,0.1
+6,information retrieval and semantic search,full_text,1,0.9114000022236723,6,0.0
+6,information retrieval and semantic search,full_text,2,0.9731999998621177,6,0.0
+6,information retrieval and semantic search,full_text,3,0.8751999994274229,6,0.0
+6,information retrieval and semantic search,full_text,4,0.9853000010480173,6,0.0
+6,information retrieval and semantic search,full_text,5,1.089900000806665,6,0.0
+6,information retrieval and semantic search,full_text,6,0.920300000871066,6,0.0
+6,information retrieval and semantic search,full_text,7,0.9385999983351212,6,0.0
+6,information retrieval and semantic search,full_text,8,0.8237000001827255,6,0.0
+6,information retrieval and semantic search,full_text,9,0.9877000011329073,6,0.0
+6,information retrieval and semantic search,full_text,10,0.8955000012065284,6,0.0
+7,cybersecurity threat detection,full_text,1,0.8952999996836297,5,0.2
+7,cybersecurity threat detection,full_text,2,0.9232999982486945,5,0.2
+7,cybersecurity threat detection,full_text,3,0.851400000101421,5,0.2
+7,cybersecurity threat detection,full_text,4,0.8841999988362659,5,0.2
+7,cybersecurity threat detection,full_text,5,0.9868000015558209,5,0.2
+7,cybersecurity threat detection,full_text,6,0.7480999993276782,5,0.2
+7,cybersecurity threat detection,full_text,7,0.9145999974862207,5,0.2
+7,cybersecurity threat detection,full_text,8,0.931700000364799,5,0.2
+7,cybersecurity threat detection,full_text,9,0.9603999969840515,5,0.2
+7,cybersecurity threat detection,full_text,10,0.9854000018094666,5,0.2
+8,reinforcement learning for decision making,full_text,1,1.015700003335951,10,0.0
+8,reinforcement learning for decision making,full_text,2,1.2841000025218818,10,0.0
+8,reinforcement learning for decision making,full_text,3,0.9697000023152214,10,0.0
+8,reinforcement learning for decision making,full_text,4,1.131199998781085,10,0.0
+8,reinforcement learning for decision making,full_text,5,0.9380000010423828,10,0.0
+8,reinforcement learning for decision making,full_text,6,1.0992999996233266,10,0.0
+8,reinforcement learning for decision making,full_text,7,1.0713999981817324,10,0.0
+8,reinforcement learning for decision making,full_text,8,1.0944999994535465,10,0.0
+8,reinforcement learning for decision making,full_text,9,0.9645999998610932,10,0.0
+8,reinforcement learning for decision making,full_text,10,1.1362000004737638,10,0.0
+9,medical image analysis using artificial intelligence,full_text,1,0.8460000026389025,1,0.0
+9,medical image analysis using artificial intelligence,full_text,2,0.7770999982312787,1,0.0
+9,medical image analysis using artificial intelligence,full_text,3,0.8984000014606863,1,0.0
+9,medical image analysis using artificial intelligence,full_text,4,0.7120999980543274,1,0.0
+9,medical image analysis using artificial intelligence,full_text,5,1.0763999998744112,1,0.0
+9,medical image analysis using artificial intelligence,full_text,6,0.9114000022236723,1,0.0
+9,medical image analysis using artificial intelligence,full_text,7,0.8097000027191825,1,0.0
+9,medical image analysis using artificial intelligence,full_text,8,0.8422999999311287,1,0.0
+9,medical image analysis using artificial intelligence,full_text,9,1.0253000000375323,1,0.0
+9,medical image analysis using artificial intelligence,full_text,10,0.8721000012883451,1,0.0
+10,efficient training of neural networks,full_text,1,0.9630000022298191,10,0.1
+10,efficient training of neural networks,full_text,2,1.0307999982615001,10,0.1
+10,efficient training of neural networks,full_text,3,1.2973000011697877,10,0.1
+10,efficient training of neural networks,full_text,4,0.9913999965647236,10,0.1
+10,efficient training of neural networks,full_text,5,1.025000001391163,10,0.1
+10,efficient training of neural networks,full_text,6,1.0355000013078097,10,0.1
+10,efficient training of neural networks,full_text,7,1.0432999988552183,10,0.1
+10,efficient training of neural networks,full_text,8,1.2264999968465418,10,0.1
+10,efficient training of neural networks,full_text,9,1.0168000007979572,10,0.1
+10,efficient training of neural networks,full_text,10,1.0978999998769723,10,0.1
